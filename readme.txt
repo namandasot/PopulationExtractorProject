@@ -2,11 +2,11 @@ Step 1 Classifier:
 Used to classify whether given doc contains population abstract or not.
 
 use : python filename TrainFileForPositiveCase TrainFileForNegativeCase TestFileForPositiveCase TestFileForNegativeCase
-Example:  python newBayes.py trainClass0.txt trainClass1.txt testClass0.txt testClass1.txt
+Example:  python newBayes.py trainClass1.txt trainClass0.txt testClass1.txt testClass0.txt
  
  (here we are taking two input files because the code was used for testing and analysing purposes and it was easy to analyse data if poitive and negative cases are separated) 
  
- this will generate 2 files. out1.txt and out2.txt
+ this will generate 2 files. out1.txt and out0.txt
  
  Step 2 Extractor:
  Place above output file along with corresponding testClass file in DataSet folder of Step2Extractor folder. 
