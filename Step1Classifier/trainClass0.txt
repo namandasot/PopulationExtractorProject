@@ -1,0 +1,201 @@
+[The prognosis of the late results of electroimpulse therapy for atrial fibrillation in ischemic heart disease patients].
+To compare the results of treatment of atrial fibrillation (Af) with maze procedure by radiofrequency in 25 patients undergoing mitral valve replacement operation (MVRO) (treatment group) with those in 25 patients undergoing MVRO only (control group).
+Patients > 57.5 years with a mean pulmonary artery pressure > or =23 mm Hg and a history of preoperative antiarrhythmic drug treatment had an odds ratio of 53.33 (95% confidence limits 6.12-464.54) for atrial fibrillation late after successful mitral valve repair.
+In a matched-paired analysis, each patient taking each class of therapy was matched for age, gender, previous embolic event, hypertension, diabetes, congestive failure, and atrial fibrillation to someone not taking that medication.
+Eleven patients were in normal sinus rhythm and the rest were in atrial fibrillation.
+Intravenous verapamil slows the ventricular rate in atrial fibrillation and flutter with an occasional patient reverting to sinus rhythm.
+Mentions of warfarin, beta-blockers, digoxin, diltiazem, verapamil, and all class I and class III antiarrhythmic drugs made by US office-based physicians during patient visits for AF between October 1999 and September 2003 were evaluated using the IMS Health National Disease and Therapeutic Index (Plymouth Meeting, PA).
+Seven randomized studies during the past 5 years have evaluated or are evaluating the efficacy of warfarin or aspirin or both in decreasing the risk of embolic events in patients with nonrheumatic atrial fibrillation.
+Aspirin in elderly atrial fibrillation patients.
+Many patients take cardioprotective aspirin or warfarin for atrial fibrillation, the presence of a mechanical heart valve, prior thromboembolism, a documented left ventricular thrombus, or a history of venous thromboembolism with or without a pulmonary embolism.
+Amiodarone is effective for converting AF to sinus rhythm in a wide range of patients.
+In this study, a subgroup of 541 patients from the Assessment of Cardioversion Using Transesophageal Echocardiography (ACUTE) study who had AF for >48 hours and planned to undergo transesophageal echocardiography before direct-current cardioversion were enrolled.
+Associated procedures were performed in 38 patients (38%): 27 coronary artery bypass grafting (CABG), 11 mitral valve replacement, 11 septal myectomy and one ablation for atrial fibrillation.
+Bleeding risk assessment and management in atrial fibrillation patients.
+Therefore, the implementation of thromboembolic preventive treatment is the cornerstone of quality management in AF patients.
+In conclusion, assessment of PVF variables and patterns by Doppler echocardiography seems useful in the management of AF patients.
+The Health-Related Quality of Life (HRQoL) assessment in atrial fibrillation (AF) patients has traditionally been carried out in a poorly standardised fashion, or via the use of non disease-specific HRQoL questionnaires.
+Ablative surgery for supraventricular tachycardia (atrial re-entry, automatic atrial, atrioventricular nodal re-entry, and atrial fibrillation) had a 93% success rate (25 of 27 patients).
+The classic Cox maze procedure eliminates atrial fibrillation in more than 90% of patients and has remained the gold standard in surgery for atrial fibrillation.
+Use of warfarin for nonvalvular atrial fibrillation in nursing home patients.
+A case study is presented of an elderly patient, taking warfarin for atrial fibrillation, who falls and sustains a head laceration.
+Oral anticoagulation with vitamin K antagonists (VKAs), such as warfarin, has historically been the mainstay of long-term thromboprophylaxis in AF patients.
+One patient had an early recurrence of AF that was not amenable to medical treatment, and was subsequently treated with His' bundle ablation.
+In persistent AF, 6 and 26 patients underwent SSOA and CPVA, respectively, and greater efficacy was observed in the second group (17 vs 65%; log-rank test p = 0.004).
+A case of persistent atrial fibrillation cured by focal ablation in a young patient.
+We performed TS puncture guided by RT 3D TEE under general anaesthesia in 24 consecutive patients (16 male, 55.4 +/- 8.1 years) undergoing ablation for drug refractory AF.
+Seventy-four consecutive AF patients underwent CAPV (41 paroxysmal and 33 drug refractory AF) were randomly assigned to receive placebo (Group A) or AADs (Group B) for 3 months.
+Forty patients underwent ablation for AF, 20 using RMN (NIOBE II, Stereotaxis, Inc) with a 4-mm-tip magnetic catheter (Celsius, Biosense Webster) and 20 using a conventional 8-mm-tip bidirectional ablation catheter (Blazer, Boston Scientific).
+How many patients in atrial fibrillation admitted to an acute medical unit will benefit from oral anticoagulation?
+If the results of the RTCs are valid, then how many patients in AF admitted to an acute medical unit will benefit from OAC?
+An RCT-based decision analysis model suggests that more than half the patients in AF admitted to a small rural hospital with acute medical conditions are unlikely to benefit from OAC, while all will benefit from aspirin.
+Risk of initiating antiarrhythmic drug therapy for atrial fibrillation in patients admitted to a university hospital.
+Selecting an antiarrhythmic agent for atrial fibrillation should be a patient-specific, data-driven decision.
+Selecting an antiarrhythmic agent for atrial fibrillation (AF) should be a patient-specific decision.
+Is it necessary to routinely perform isolation of the superior vena cava in every atrial fibrillation patient?
+Heart rate variability was assessed by standard electrocardiography (ECG) in patients in heart failure and by oesophageal ECG in patients after heart transplantation.
+Heart rate variability was assessed by standard electrocardiography (ECG) in patients in heart failure and by oesophageal ECG in patients after heart transplantation.
+Electrocardiogram and clinical characteristics of patients referred for cardiac transplantation: implications for pacing in heart failure.
+But it is difficult to undergo ECG, US, or other examination to diagnose a heart failure at the patient home, especially in the case of such examination was needed quickly or frequently.
+The clinical and laboratory data--alanine aminotransferase (ALT), aspartate aminotransferase (AST), alkaline phosphatase (AP), gamma-glutamyl transpeptidase (GGT), bilirubin and coagulogram--of 50 patients admitted in 2002 to a tertiary hospital with the diagnosis of heart failure were researched by means of a cross sectional study.
+heart insufficiency was demonstrated by autopsy in 14 patients.
+Authors have suggested that ICG measurements are useful for a myriad of situations, including diagnosis of heart failure, monitoring of a patient's clinical status, and assisting in medicine titration decisions.
+Authors have suggested that ICG measurements are useful for a myriad of situations, including diagnosis of heart failure, monitoring of a patient's clinical status, and assisting in medicine titration decisions.
+The authors followed up a cohort of 82 patients (mean age, 80.5 years) enrolled in a randomized controlled trial of exercise training in heart failure.
+The authors sought to delineate these parameters and identify patient factors predicting hospitalizations for heart failure and mortality 12 months after their initial diagnosis of heart failure.
+The authors discuss potential mechanisms that might have accounted for the patient's cardiorenal compromise, with a focus on a very rare ""cytokine release"" syndrome attributed to this type of monoclonal antibody therapy and the probable interplay of cytokines in advanced heart failure.
+The study measured sensitivity, specificity, positive and negative predictive values (PPV, NPV), and area under receiver operating characteristic curve for BNP (near patient assay) and NT proBNP (laboratory assay) in diagnosis of heart failure due to left ventricular systolic dysfunction.
+The study incorporates several unique features to lessen potential methodological errors of exercise testing in heart failure, including use of a core laboratory to evaluate exercise tests, a computer program to determine the exercise end points, and validation of each site before patient enrollment.
+Though the patient had no clinical sign of heart failure, extensive involvement of the heart was demonstrated by echocardiography.
+[Usefulness of echocardiography in heart insufficiency: a prospective study of 100 patients].
+To use echocardiography in a large rural practice to evaluate the accuracy of diagnosis of heart failure in patients over 65 years of age.
+Two hundred patients (60-89 years, 66% male) with New York Heart Association (NYHA) II or III heart failure confirmed by echocardiography were randomised.
+This review will discuss the role of echocardiography in heart failure diagnosis, prognostic assessment and in the management of heart failure patients.
+In the original randomized controlled trial, 200 patients (60-89 years, 132 men) with New York Heart Association II/III heart failure confirmed by echocardiography had been randomized (2000-2001).
+We performed a single institution retrospective review of medical records and analyses of echocardiographic findings in patients < or = 45 years of age hospitalized between 2001 and 2004 who were discharged with a diagnosis of cardiomyopathy or heart failure.
+Although a huge number of papers have been published on echocardiography in heart failure, there is no expert consensus on how the ultrasound evaluation can really improve the management of heart failure patients.
+Routine spirometry and echocardiography in HF and COPD patients, respectively, is therefore warranted to improve current clinical practice.
+We propose that patients be selected for echocardiography both for the diagnosis of heart failure and to investigate the underlying cause, implying referral to a cardiologist prior to echocardiography.
+Applying algorithms resulted in referral for echocardiography in 52% (normal NT-proBNP; ESC), 72% (normal ECG; ESC), 56% (NICE), 93% (NL) and 70% (Mant) of all patients, diagnosing HF in 78, 56, 76, 49 and 62% of those referred, respectively.
+After two days, echocardiography showed right cardiac failure and the patient had to be converted to veno-arterial ECMO (VV-A ECMO) by cannulation of the left femoral artery.
+Tissue Doppler echocardiography and biventricular pacing in heart failure: patient selection, procedural guidance, follow-up, quantification of success.
+The pathological basis of these CXR changes is not clear, since no biopsy or autopsy specimen was obtained from these patients, none of these patients showed definite heart failure, it is difficult to consider that abnormal CXR findings were due to heart failure.
+We propose that tissue profiling a patient's pre-implant biopsy for fibrosis and myocyte size may allow stratification in Stage IV heart failure and may predict myocardial improvement during LVAD support.
+All patients' records were reviewed and those diagnostic procedures and clinical findings were recorded on a standardized data extraction form that had been used to establish the diagnosis of HF.
+55 patients, 32 female, aged 22 to 69 years with epidemiologic data and positive serological tests, all presenting cardiovascular symptoms, 20 in cardiac failure (10 with left ventricular failure and 10 in congestive heart failure).
+These data suggest that the measurement of BNP levels may be helpful in the diagnosis of HF and in selecting patients for further evaluation.
+The prognostic information obtained from BNP levels in HF and acute myocardial infarction patients seems even more promising.
+We present a simple method to construct a 3-zone partition for quantitative tests results, including positive and negative zones and a gray zone between, and we describe its use in the diagnosis of heart failure by brain natriuretic peptide (BNP) measurement in acute dyspneic patients.
+In this prospective study, we evaluated value of BNP levels in acute myocardial infarction (MI) patients for the prediction of heart failure during one year of follow-up.
+Transition theory provides a useful context to assist clinicians, patients, and their families adjust to the challenges inherent in a diagnosis of HF and negotiating the illness trajectory.
+Although many interpretations of STICH exist, the neutral results of STICH should reassure clinicians that a strategy of initiating and optimizing medical therapy and deferring surgical revascularization for ischemic cardiomyopathy in "STICH-like patients" is effective, safe, and tested.
+Difficulties with diagnosis of heart failure may be related to the observation that cardiologists tend to concentrate on young cardiac patients.
+For the cardiologists the natriuretic peptides are helpful for guidance of therapy and monitoring disease course in heart failure patients and for risk stratification in heart failure and myocardial infarction.
+A total of 1023 patients were randomized after hospitalisation for heart failure to 1 of 3 treatment strategies: standard care provided by a cardiologist, follow-up care from a cardiologist with basic counselling and support by a nurse specialising in heart failure, or follow-up care from a cardiologist with intensive counselling and support by a nurse specialising in heart failure.
+A total of 1023 patients were randomized after hospitalisation for heart failure to 1 of 3 treatment strategies: standard care provided by a cardiologist, follow-up care from a cardiologist with basic counselling and support by a nurse specialising in heart failure, or follow-up care from a cardiologist with intensive counselling and support by a nurse specialising in heart failure.
+A random selection algorithm was used to reduce bias during enrollment of patients seen in specialty clinics or clinics of community cardiologists with experience in heart failure.
+A panel of two cardiologists and a geriatrician will diagnose heart failure based on data collected from actual clinical examinations (including history, physical examination, ECG, cardiac markers and echocardiography), patient records and questionnaires.
+The cut-off point proposed for exclusion (300 pg/ml) shows high sensitivity and negative predictive value in the diagnosis of HF in patients admitted to our service.
+The present study showed a high reliability of planar (123)I-MIBG myocardial scintigraphy in HF patients, confirming that MIBG myocardial scintigraphy can be implemented easily for clinical risk stratification in HF."
+Clinical judgement was investigated in 17 cardiologists and 25 internists from four district hospitals using the probability assessment of heart failure diagnosis in 30 case histories based on real patients.
+A panel of two cardiologists and a geriatrician will diagnose heart failure based on data collected from actual clinical examinations (including history, physical examination, ECG, cardiac markers and echocardiography), patient records and questionnaires.
+Concordance between elderly patients' understanding of and their primary healthcare physician's diagnosis of heart failure.
+With physicians blinded to BNP results, 24 of 88 patients (27%) were given a primary diagnosis of heart failure, and 18 patients (20%) were given a secondary or alternative diagnosis of heart failure.
+With information from our study the detection of previously unknown heart failure in diabetic patients could be improved and enable the physician to initiate beneficial morbidity and mortality reducing heart failure treatment more timely.
+Physician and patient predictors of evidence-based prescribing in heart failure: a multilevel study.
+To examine general practitioner (GP) and patient recruitment in a randomised clinical trial to determine the usefulness of brain natriuretic peptide (BNP) in the diagnosis of heart failure in the community.
+General practitioners may, in the future, use BNP or NT-proBNP as a rule-out test for heart failure and preselect patients for further diagnostic work-up on the basis of an elevated plasma level.
+To determine the diagnostic accuracy of the measurement of plasma B-type natriuretic peptide (BNP) and N-terminal pro-BNP (NTproBNP) in patients referred by their general practitioners (GPs) with symptoms suggestive of heart failure.
+In a cross-sectional study, patients >/=65 years of age, classified as having chronic obstructive pulmonary disease by their general practitioner and not known with a cardiologist-confirmed diagnosis of heart failure, were invited to our out-patient clinic.
+The study will be developed in the provinces of Almeria, Malaga and Granada in the Southern Spain, from patients included in the Andalusian Health Care Service database with the diagnosis of COPD or Heart Failure, with the collaboration of case manager nurses and general practitioners for the assessment of their suitability to inclusion criteria.
+In patients attended by general practitioners, BNP >100 pg/ml may be a useful diagnostic tool with a high specificity for the diagnosis of HF.
+As mortality rates are high, it is important that patients seen by general practitioners with symptoms suggestive of heart failure are identified quickly and treated appropriately.
+As more patients have a diagnosis of end-stage heart failure, nurses are more likely to encounter the use of left ventricular assist devices (LVADs).
+Perspectives of nurses and patients on the intensity and content of disease management programmes (DMPs) in heart failure are seldom addressed but are important in optimizing these programmes.
+The study will be developed in the provinces of Almeria, Malaga and Granada in the Southern Spain, from patients included in the Andalusian Health Care Service database with the diagnosis of COPD or Heart Failure, with the collaboration of case manager nurses and general practitioners for the assessment of their suitability to inclusion criteria.
+The results help confirm the need to develop educational programs for home care nurses in managing HF, which may lead to improved quality of patient education.
+Thus, nurses and patients are on parallel paths related to setting the foundation for improved self-care adherence in advanced heart failure.
+Eight years ago we started the first physician-nurse based outpatient heart failure clinic in Sweden, where the nurses after passing an examination in heart failure have special authority to handle this type of patient.
+First, compliance with individual performance measures (breast cancer screening with mammography, colorectal cancer screening, influenza vaccination, pneumococcal vaccination, lipid monitoring, use of ACE inhibitor in heart failure, and diabetic eye examination), as well as overall receipt of recommended care, was estimated as a function of each patient's clinical complexity.
+Although most primary care physicians stated they prescribe ACE inhibitors in heart failure, this was for only 47-62% of patients, and at doses below those identified as effective in trials.
+The diagnosis of HF by the primary care physicians was based on an objective evaluation of cardiac function in 8% of the patients.
+Measurement of NPs is a useful tool in the differential diagnosis of cardiac versus non-cardiac dyspnoe (high negative predictive value), in the identification of heart failure patients most at risk and in optimising therapy in heart failure.
+The aim of our study was to establish weather N-terminal fragment of brain-type natriuretic peptide (NT-proBNP) is useful in the differential diagnosis of dyspnea in elderly patients, and whether its determination has a prognostic value in heart failure (HF).
+Using a timeline follow-back technique, a nurse interviewer administered a questionnaire shortly after admission, exploring knowledge of a heart failure diagnosis, the symptoms and time course of decompensation, and patient responses to worsening symptoms.
+The aim of our study was to investigate if plasma amylase (as an easily approached marker of a low-grade peripheral organ injury caused by elevated systemic venous pressure and reduced cardiac output) is elevated in severe heart failure and if this elevation is correlated with cytokine and neurohormonal activation in the plasma of heart failure patients.
+Diagnosis of HF is clinical and there is no diagnostic test, although some basic complementary testing should be performed in all patients.
+Doppler ultrasonography should be performed in all patients where heart failure is suspected but cannot be clearly demonstrated.
+Admission blood glucose concentration and diabetes are prognostically important in HF and could help target some patients for more intensive therapy.
+Investigating pain in heart failure patients: rationale and design of the Pain Assessment, Incidence & Nature in Heart Failure (PAIN-HF) study.
+Investigating pain in heart failure patients: the pain assessment, incidence, and nature in heart failure (PAIN-HF) study.
+The HEART study failed to recruit its planned number of patients, although it is the largest randomised trial of revascularisation in heart failure reported to date.
+In addition to the hypothesis-generating data from WOSCOPS, hypothesis-testing data were available from the Heart Protection Study (HPS), the Long-Term Intervention with Pravastatin in Ischemic Disease (LIPID) Study, the Anglo-Scandinavian Cardiac Outcomes Trial (ASCOT), the Justification for the Use of Statins in Prevention: an Intervention Trial Evaluating Rosuvastatin (JUPITER), and the Controlled Rosuvastatin Multinational Study in Heart Failure (CORONA), together including 57,593 patients with mean follow-up of 3.9 years during which 2,082 incident diabetes cases accrued.
+Therefore in the present study we examined the effects of rosuvastatin and allopurinol on MPO levels in patients HF.
+The study will be developed in the provinces of Almeria, Malaga and Granada in the Southern Spain, from patients included in the Andalusian Health Care Service database with the diagnosis of COPD or Heart Failure, with the collaboration of case manager nurses and general practitioners for the assessment of their suitability to inclusion criteria.
+Aim of this study was to evaluate the analytical performance of a direct NT-proCNP assay and to measure its plasma levels in heart failure (CHF), diabetes and chirrosis patients.
+Optimizing therapy for heart failure patients: cardiac resynchronization and defibrillator therapy.
+Microvolt T-wave alternans testing should be used to guide arrhythmic therapy in heart failure patients.
+Optimal timing of left ventricular assist device implantation for severe heart failure patients: focus on end-organ function not hemodynamics.
+Heart failure patients benefit from a combined therapy with carvedilol and amiodarone resulting in a markedly improved NYHA stage, an increase in LV ejection fraction, a stabilization of sinus rhythm, a significant reduction in heart rate, a delay of electrical signal conduction and a suppression of ventricular ectopies.
+Home based intervention in heart failure patients.
+Statins reduce the rate of major cardiovascular events in high-risk patients, but their potential benefit as treatment for heart failure (HF) is less clear.
+Both prednisone and carnitine therapies were unable to improve the heart insufficiency, and the patient died 1 year after the acute episode of rhabdomyolysis.
+In conclusion, the VAD is safely applicable to clinical cases and contributes to treatments of profound heart failure patients.
+Comorbid conditions are strongly associated with hospitalizations, and this information could be used to define effective interventions to prevent hospitalizations in HF patients.
+We studied 958 patients enrolled after hospitalization for HF;
+In this group, hospitalizations for worsening heart failure were predicted to be significantly reduced and overall treatment costs per patient to decrease by about and U20AC;550.
+The patients were selected from a clinical trial evaluating the efficacy and hemodynamic effects of chronic carvedilol treatment in heart failure.
+In the last few years different approaches based on comprehensive patient care and close surveillance by multidisciplinary teams have shown promising results in heart failure.
+Nurse care management provided structured telephone surveillance and treatment for heart failure and coordination of patients' care with primary care physicians.
+Pneumococcol vaccinations, discharge instructions for heart failure patients need improvement.
+Symptom status and quality-of-life outcomes of home-based disease management program for heart failure patients.
+Disease management programs can reduce hospitalizations in high-risk heart failure (HF) patients, but generalizability to the population hospitalized for HF remains to be proven.
+The long-term effects of angiotensin receptor blockers on BNP and NE in heart failure patients are not known.
+To date, there are no data comparing nesiritide to milrinone in the treatment of the acutely decompensated heart failure patient.
+Although cardiac resynchronization therapy (CRT) has demonstrated to be an effective treatment for heart failure patients, up to 30-40% of the patients do not show a favourable response.
+We aimed to study the potential influence of the variability in the assessment of echocardiographically measured left ventricular ejection fraction (LVEF) on indications for the implantation of internal cardioverter defibrillator and/or cardiac resynchronization devices in heart failure patients.
+The introduction of partial left ventriculectomy in a country with limited heart transplantation availability had a great impact on the management of end-stage heart failure and may represent the only surgical option for some patients.
+Isolated partial left ventriculectomy seems not to be an adequate treatment for end-stage heart failure in view of poor patients survival on long-term follow-up.
+Out of 61, 19 (31%) patients met combined end-point during follow-up [cardiac death in 6/61 (10%), partial left ventriculectomy in 4/61 (7%) and hospitalization for heart failure in 9/61 (15%) patients].
+A successful disease management program in heart failure should include patient identification patient assessment, patient education and training, patient monitoring, and triage and acute intervention.
+Cardiac resynchronization therapy (CRT) is an effective therapy for advanced heart failure (HF) patients.
+Approximately 10-20% of heart failure patients may benefit from CRT(2).
+Despite advances in medical and device therapy for heart failure, clinicians still hope that patients will adhere to nonpharmacologic interventions, some of which can actually improve symptoms and quality of life.
+Device therapy in the elderly heart failure patient: what is the evidence?
+Incorporation of diagnostic devices into the management of heart failure patients may prove instrumental in reducing the burden of this disease on patients and healthcare systems.
+Because of their proven favourable effect on patient survival, ACE inhibitors are replacing digitalis as first-line drug--after diuretics--in the treatment of congestive heart failure.
+Surgery is indicated for malignant cardiac neoplasms to relieve cardiac symptoms and to prolong patient survival.
+In combination with continued digitalis and diuretic therapy it has been demonstrated to be effective in the management of severe heart failure refractory to optimal digitalis, diuretic and, in many patients, vasodilator treatment.
+In aggregate, the available data suggest that ACE inhibitors should remain a cornerstone of therapy for heart failure with a reduced ejection fraction in white patients and black patients.
+Utilization of angiotensin-converting enzyme inhibitors (ACE-I) and beta-adrenergic receptor blockers (BB) in heart failure (HF) patients remains suboptimal despite evidence-based guidelines supporting their use.
+The second set of criteria, suitable for use in interpretation of the computerized electrocardiogram, uses logistic regression models based on electrocardiographic and demographic variables with independent predictive value for LVH, with separate equations for patients in sinus rhythm and atrial fibrillation.
+Electrocardiograms in the last 6 months of life in 101 patients disclosed atrial fibrillation in 25;
+Three of 17 patients (18%) transmitted electrocardiograms that showed atrial fibrillation.
+Patients were identified in a long-term care facility by an electrocardiogram demonstrating atrial fibrillation.
+This study assesses the value of P wave measurements on the surface ECG at implantation, in the prediction of atrial fibrillation in VVI paced patients.
+Forty-five minutes after the start of the surgery, the patient complained of severe back pain, her blood pressure decreasing to 40 mmHg, SpO2 decreased to 80%, and ECG showed atrial fibrillation.
+Electrocardiography showed transient atrial fibrillation, second degree atrioventricular block, ST-segment depression, and sinus bradycardia in each patient.
+Usefulness of prolonged P-wave duration on signal averaged ECG in predicting atrial fibrillation in acute myocardial infarction patients.
+In our study, a P wave triggered P wave signal-averaged ECG (P-SAECG) was performed on 118 consecutive patients 1 day after successful electrical cardioversion in order to evaluate the utility of this method to predict AF after cardioversion.
+Among 36 enrolled patients, the admission electrocardiogram demonstrated AF in 26 and AFl in 10.
+At the same time 59 patients perceived AF and 134 ECGs showed AF.
+The electrocardiogram of the patient showed AF with normal ventricular response.
+The diagnosis of atrial fibrillation was based on the patient's medical history and an electrocardiogram performed during the study.
+All patients had an electrocardiogram on admission that was compared with a previous electrocardiogram to confirm new-onset AF or atrial flutter.
+An ECG showed atrial fibrillation, and the patient reported that the symptoms were similar to those previously experienced.
+Four patients had short periods of silent AF detected by Holter ECG.
+Follow-up included 2-week event monitoring with auto-trigger in 21 patients, pacemaker interrogation in 8, and ECG in 1 who was in AF and refused longer-term monitoring.
+The FRACTAL study was a prospective observational registry of patients enrolled in the United States and Canada with new-onset AF diagnosed by electrocardiogram.
+From 30 days before through 90 days after AF diagnosis, basic evaluation, including physician visit, electrocardiogram, and echocardiography, was completed in up to 66.6% of patients.
+The present work introduces two different WE applications to the electrocardiogram (ECG) of patients in AF.
+ECGs associated with a primary ED diagnosis of atrial fibrillation were excluded, and from the remaining ECGs of patients with a different primary ED diagnosis, half were randomly selected for abstraction.
+We performed a simple electrocardiography (ECG) screening for silent AF in patients at risk for AF.
+First, in 11 (55%) patients, stored ECGs confirmed AF at 62 +/- 38 days after ablation.
+[Ergometric functional evaluation of heart disease patients in atrial fibrillation before and after electric conversion].
+Left atrial diameter was measured by echocardiography in 107 patients in atrial fibrillation.
+Mitral annular diameters in apical four- and two-chamber views were measured using echocardiography in 25 patients in atrial fibrillation, and in 37 subjects in normal sinus rhythm at mid-diastole, end-diastole and end-systole.
+Patients were also excluded if they had a diagnosis of atrial fibrillation or severe mitral or aortic valve regurgitation at the time of the echocardiogram.
+We conclude that measurements of aortic valve gradient by continuous-mode Doppler ultrasound may not correlate closely with those by catheterization when the experience with the Doppler technique is limited and when patients in atrial fibrillation or with significant coexistent AR are studied.
+Authors of the most recent meta-analysis of amiodarone for conversion of AF state that the drug is effective and relatively rapid acting in converting AF to normal sinus rhythm in a wide range of patients, and they recommend it as a first-line drug.
+The evidence strongly supports warfarin in AF for patients at average or greater risk of stroke, although clearly there is a risk of hemorrhage.
+In this review, the authors explain in which way AF may interfere with adequate CRT delivery, how to manage different AF burden, and finally present a brief overview on the effects of CRT in AF patients.
+In 503 consecutive patients the authors simultaneously compared the accuracy of the Microlife((r)) BP A200 Plus (Microlife) and the OMRON((r)) M6 (OMRON) home BP devices, in detecting AF.
+When bias in selection of patients is avoided, TOE detects a potential cardiac source of embolism in most patients with cerebral ischaemia, particularly those older and in atrial fibrillation.
+While promising, this transesophageal echocardiography--guided strategy for cardioversion of patients in atrial fibrillation requires more rigorous study before its routine use can be recommended.
+The P-wave duration on the SAECG was significantly longer in the AF patients than in those without AF: 152 +/- 18 versus 139 +/- 17 milliseconds (P < .001).
+The P wave signal-averaged electrocardiography has been designed to predict development of atrial fibrillation in different populations of patients.
+We describe the integration of a CT image into the EnSite NavX System with Fusion and its validation in patients undergoing atrial fibrillation (AF) or left atrial tachycardia (AT) catheter ablation.
+In T1 mapping, saturation pulse prepared heart-rate-independent inversion recovery results in (a) reduced scan time (17 vs. 9 heartbeats), (b) insensitivity to heart rate for long T1 , and (c) increased signal homogeneity for short T1 . LGE images in a patient in atrial fibrillation during the scan show improved myocardial nulling.
+Additional studies with larger cohorts of AF patients and correlation with outcome are needed to further investigate the potential of atrial 4D flow MRI to flow patterns indicative of stroke risk in AF.
+Review by a cardiologist revealed 6 of the 17 patients to have been in atrial fibrillation, atrial tachycardia, or sinus tachycardia.
+Prediction of the termination of an AF episode, based on noninvasive techniques, can benefit patients, doctors and health systems.
+physicians are reticent to recommend warfarin for elderly patients in AF, despite evidence of increased benefit in these patients compared with younger patients.
+We hypothesized that patients with frequent atrial premature beats (APBs) recorded in 24-hour ECG will show more often atrial fibrillation when followed by repeated long-term ECG recordings than patients without or infrequent APBs.
+Most of these reports have focused on hospitalized patients or were performed by generalists, whereas in the real-world AF is managed in an out-of-hospital setting with growing implication of cardiologists. 
+Although the stimulus for the increased thickness of the atrial septum remains elusive, IST may identify a structural cause for atrial fibrillation in elderly patients that is easily identified by transthoracic echocardiography. 
+Holter monitoring in these patients (performed more than 6 months after cessation of antiarrhythmic drugs) showed sinus rhythm and no atrial fibrillation.
+In atrial biopsies taken from patients in permanent atrial fibrillation (n=5) versus sinus rhythm (n=5), stiffness of both collagen fiber subtypes was augmented (p<0.008). 
+The proportions of patients classified as having high, moderate, and low risk of stroke among the following CCSs were compared: the Atrial Fibrillation Investigators (AFI), the Stroke Prevention in Atrial Fibrillation (SPAF), the CHADS(2) (an acronym for congestive heart failure, hypertension, age >75 years, diabetes mellitus, and prior stroke or transient ischemic attack), and the American College of Chest Physicians (ACCP).
+26 patients were referred to the clinics by 2 primary care physicians for each pharmacy, most with a diagnosis of atrial fibrillation.
+A prospective analysis was conducted of fungal sIgG and sIgE using a 9-mold RAST panel in 13 AFS, 11 AFS-like, and 27 non-AFS polypoid rhinosinusitis patients.
+
