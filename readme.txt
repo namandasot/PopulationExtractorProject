@@ -13,4 +13,4 @@ Example:  python newBayes.py trainClass1.txt trainClass0.txt testClass1.txt test
  Run the populationExtr.java and extract Population phrases. Result will also be stored in DataSet folder as ResultFile.txt .
  Dependencies are : stanford-parser.jar and  stanford-parser-3.4-models.jar
  
- 
+ Add Dependencies/Jar files from the Dependency folder.
