@@ -14,3 +14,5 @@ Example:  python newBayes.py trainClass1.txt trainClass0.txt testClass1.txt test
  Dependencies are : stanford-parser.jar and  stanford-parser-3.4-models.jar
  
  Add Dependencies/Jar files from the Dependency folder.
+ (stanford-parser-3.4-models.jar  is too big. Available at " https://drive.google.com/file/d/0B_wjmbf3y6wUcnNUS0JmdHRiVkU/view?usp=sharing " )
+ 
